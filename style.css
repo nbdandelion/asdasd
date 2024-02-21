@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+
+p{
+    font: 34px arial;
+    text-decoration: underline;
+}
+
+table, tr, td{
+    border: 1 px solid black;
+}
